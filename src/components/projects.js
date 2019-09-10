@@ -17,7 +17,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 1 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -31,7 +31,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 2 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -45,7 +45,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 3 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -65,7 +65,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 1 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -79,7 +79,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 2 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -93,7 +93,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 3 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -111,7 +111,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.python.org/static/opengraph-icon-200x200.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 1 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -125,7 +125,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.python.org/static/opengraph-icon-200x200.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 2 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
@@ -139,7 +139,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.python.org/static/opengraph-icon-200x200.png) center / cover'}} ></CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's
+              Project 3 descriptionS
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
