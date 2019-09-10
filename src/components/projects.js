@@ -139,7 +139,7 @@ class Projects extends Component {
           <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
             <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://www.python.org/static/opengraph-icon-200x200.png) center / cover'}} ></CardTitle>
             <CardText>
-              Project 3 descriptionS
+              Project 3 description
             </CardText>
             <CardActions border>
               <Button colored>GitHub</Button>
